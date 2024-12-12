@@ -58,41 +58,5 @@
       "opus-wall"
     ],
     "category": "Modern Wooden Fans"
-  },
-  {
-    "urlCode": "matrix-sg",
-    "modelName": "Matrix – Bladeless Tower Fan with 2 Stage Air Purifier",
-    "fanSize": "42 Inch Height",
-    "fanFinish": "Silver Grey",
-    "variations": [
-      "matrix-gg"
-    ],
-    "related": [
-      "desky",
-      "standie",
-      "eiffel-blk",
-      "eiffell-wooden",
-      "nova",
-      "nova-mini",
-      "innovation"
-    ],
-    "category": "Bladeless Fans"
-  },
-  {
-    "urlCode": "desky",
-    "modelName": "Desky Bladeless Fan with Remote",
-    "fanSize": "24 Inch Height",
-    "fanFinish": "White",
-    "variations": [],
-    "related": [
-      "matrix-gg",
-      "standie",
-      "eiffel-blk",
-      "eiffell-wooden",
-      "nova",
-      "nova-mini",
-      "innovation"
-    ],
-    "category": "Bladeless Fans"
   }
 ]
