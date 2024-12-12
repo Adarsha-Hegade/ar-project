@@ -9,7 +9,7 @@ interface FanGridProps {
 
 export function FanGrid({ fans }: FanGridProps) {
   return (
-    <div className="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+    <div className="grid grid-cols-2 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
       {fans.map((fan) => (
         <Link
           key={fan.urlCode}
@@ -39,3 +39,7 @@ export function FanGrid({ fans }: FanGridProps) {
     </div>
   );
 }
+
+
+
+

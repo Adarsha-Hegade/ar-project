@@ -230,7 +230,7 @@
   {
     "urlCode": "artic-wall-pinewood",
     "modelName": "Artic Wall – 52″ Modern Wall Fan",
-    "fanSize": "52 inches",
+    "fanSize": "52 Inches",
     "fanFinish": "Pinewood Hand-Crafted Wooden Blades",
     "variations": [
       "artic-wall"
@@ -248,7 +248,7 @@
   {
     "urlCode": "classic-wall",
     "modelName": "Classic Wall - 52\" Wall Fan with Remote",
-    "fanSize": "52 inches",
+    "fanSize": "52 Inches",
     "fanFinish": "Rattan Texture with Brown Finish",
     "variations": [
       "classic-wall-dark"
@@ -266,7 +266,7 @@
   {
     "urlCode": "classic-wall-dark",
     "modelName": "Classic Wall - 52\" Wall Fan with Remote",
-    "fanSize": "52 inches",
+    "fanSize": "52 Inches",
     "fanFinish": "Rattan Texture with Dark Coffee Finish",
     "variations": [
       "classic-wall"
