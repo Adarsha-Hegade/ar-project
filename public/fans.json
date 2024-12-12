@@ -94,5 +94,245 @@
       "innovation"
     ],
     "category": "Bladeless Fans"
+  },
+  {
+    "urlCode": "matrix-gg",
+    "modelName": "Matrix – Bladeless Tower Fan with 2 Stage Air Purifier",
+    "fanSize": "42 Inch Height",
+    "fanFinish": "Gun Grey & Silver Finish",
+    "variations": [
+      "matrix-sg"
+    ],
+    "related": [
+      "desky",
+      "standie",
+      "eiffel-blk",
+      "eiffell-wooden",
+      "nova",
+      "nova-mini",
+      "innovation"
+    ],
+    "category": "Bladeless Fans"
+  },
+  {
+    "urlCode": "trio-ss",
+    "modelName": "Trio – 38″ With 360° Rotating Ceiling Fan",
+    "fanSize": "38 Inches",
+    "fanFinish": "Chrome & Lightwood",
+    "variations": [
+      "trio-gm"
+    ],
+    "related": [
+      "dual",
+      "tornado",
+      "opus",
+      "opus-wall"
+    ],
+    "category": "Modern Wooden Fans"
+  },
+  {
+    "urlCode": "innovation-blk",
+    "modelName": "Innovation – 29″ Bladeless Ceiling Fan",
+    "fanSize": "29 Inches",
+    "fanFinish": "Dark Coffee Finish",
+    "variations": [
+      "innovation"
+    ],
+    "related": [
+      "nova",
+      "nova-mini",
+      "zephyre"
+    ],
+    "category": "Modern & Contemporary Fans"
+  },
+  {
+    "urlCode": "nova",
+    "modelName": "Nova – Bladeless Ceiling Fan with Dimmable LED",
+    "fanSize": "1090 x 690mm",
+    "fanFinish": "White",
+    "variations": [
+      "nova-mini"
+    ],
+    "related": [
+      "innovation",
+      "innovation-blk"
+    ],
+    "category": "Bladeless Fans"
+  },
+  {
+    "urlCode": "nova-mini",
+    "modelName": "Nova mini – Sleek Bladeless Ceiling Fan with Dimmable LED Light",
+    "fanSize": "490 x 490mm",
+    "fanFinish": "White",
+    "variations": [
+      "nova"
+    ],
+    "related": [
+      "innovation",
+      "innovation-blk"
+    ],
+    "category": "Bladeless Fans"
+  },
+  {
+    "urlCode": "opus-wall",
+    "modelName": "Opus wall -34″ Wooden Wall Fan with Remote",
+    "fanSize": "34 Inches",
+    "fanFinish": "Darkwood",
+    "variations": [
+      "opus-wall-pinewood"
+    ],
+    "related": [
+      "artic-wall",
+      "classic-wall",
+      "volley-plus",
+      "volley-wt",
+      "volley-blk",
+      "wendy"
+    ],
+    "category": "Wall Mounted Fans"
+  },
+  {
+    "urlCode": "artic-wall",
+    "modelName": "Artic Wall – 52″ Modern Wall Fan",
+    "fanSize": "52 inches",
+    "fanFinish": "Darkwood Hand-Crafted Wooden Blades",
+    "variations": [
+      "artic-wall-pinewood"
+    ],
+    "related": [
+      "opus-wall",
+      "classic-wall",
+      "volley-plus",
+      "volley-wt",
+      "volley-blk",
+      "wendy"
+    ],
+    "category": "Wall Mounted Fans"
+  },
+  {
+    "urlCode": "opus-wall-pinewood",
+    "modelName": "Opus wall -34″ Wooden Wall Fan with Remote",
+    "fanSize": "34 Inches",
+    "fanFinish": "Pinewood",
+    "variations": [
+      "opus-wall"
+    ],
+    "related": [
+      "artic-wall",
+      "classic-wall",
+      "volley-plus",
+      "volley-wt",
+      "volley-blk",
+      "wendy"
+    ],
+    "category": "Wall Mounted Fans"
+  },
+  {
+    "urlCode": "artic-wall-pinewood",
+    "modelName": "Artic Wall – 52″ Modern Wall Fan",
+    "fanSize": "52 inches",
+    "fanFinish": "Pinewood Hand-Crafted Wooden Blades",
+    "variations": [
+      "artic-wall"
+    ],
+    "related": [
+      "opus-wall",
+      "classic-wall",
+      "volley-plus",
+      "volley-wt",
+      "volley-blk",
+      "wendy"
+    ],
+    "category": "Wall Mounted Fans"
+  },
+  {
+    "urlCode": "classic-wall",
+    "modelName": "Classic Wall - 52\" Wall Fan with Remote",
+    "fanSize": "52 inches",
+    "fanFinish": "Rattan Texture with Brown Finish",
+    "variations": [
+      "classic-wall-dark"
+    ],
+    "related": [
+      "opus-wall",
+      "artic-wall",
+      "volley-plus",
+      "volley-wt",
+      "volley-blk",
+      "wendy"
+    ],
+    "category": "Wall Mounted Fans"
+  },
+  {
+    "urlCode": "classic-wall-dark",
+    "modelName": "Classic Wall - 52\" Wall Fan with Remote",
+    "fanSize": "52 inches",
+    "fanFinish": "Rattan Texture with Dark Coffee Finish",
+    "variations": [
+      "classic-wall"
+    ],
+    "related": [
+      "opus-wall",
+      "artic-wall",
+      "volley-plus",
+      "volley-wt",
+      "volley-blk",
+      "wendy"
+    ],
+    "category": "Wall Mounted Fans"
+  },
+  {
+    "urlCode": "wendy-sg",
+    "modelName": "Wendy – 15″ Versatile 360° Rotating Wall and Ceiling Mount Fan",
+    "fanSize": "15 Inch",
+    "fanFinish": "Sand Gold",
+    "variations": [
+      "wendy-ss",
+      "wendy-blk"
+    ],
+    "related": [
+      "volley-plus",
+      "volley-wt",
+      "volley-blk",
+      "opus-wall",
+      "artic-wall"
+    ],
+    "category": "Wall Mounted Fans"
+  },
+  {
+    "urlCode": "wendy-ss",
+    "modelName": "Wendy – 15″ Versatile 360° Rotating Wall and Ceiling Mount Fan",
+    "fanSize": "15 Inch",
+    "fanFinish": "Chrome & Grey",
+    "variations": [
+      "wendy-sg",
+      "wendy-blk"
+    ],
+    "related": [
+      "volley-plus",
+      "volley-wt",
+      "volley-blk",
+      "opus-wall",
+      "artic-wall"
+    ],
+    "category": "Wall Mounted Fans"
+  },
+  {
+    "urlCode": "wendy-blk",
+    "modelName": "Wendy – 15″ Versatile 360° Rotating Wall and Ceiling Mount Fan",
+    "fanSize": "15 Inch",
+    "fanFinish": "Matte Coffee / Dark Grey",
+    "variations": [
+      "wendy-ss",
+      "wendy-sg"
+    ],
+    "related": [
+      "volley-plus",
+      "volley-wt",
+      "volley-blk",
+      "opus-wall",
+      "artic-wall"
+    ],
+    "category": "Wall Mounted Fans"
   }
 ]
