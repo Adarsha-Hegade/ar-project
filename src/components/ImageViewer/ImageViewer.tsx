@@ -33,6 +33,7 @@ export function ImageViewer({ fanName }: ImageViewerProps) {
       img.onerror = null;
     };
   }, [fanName]);
+ 
 
   return (
     <div 

@@ -143,6 +143,12 @@ export function FanCard({ fanUrlCode, fanDisplayName }: FanCardProps) {
     setLoading(false);
     setImageError(true);
   };
+ // Helper function to truncate fan names
+ const truncateName = (name: string) => {
+  // Split the name by the first hyphen and return the part before it
+  const truncated = name.split(' - ')[0];
+  return truncated.trim();
+};
 
   return (
     <Link
@@ -172,8 +178,9 @@ export function FanCard({ fanUrlCode, fanDisplayName }: FanCardProps) {
         )}
       </div>
       <p className="mt-2 text-center text-sm font-medium capitalize text-white">
-        {(fanDisplayName || 'Unknown').replace(/-/g, ' ')}
+        {truncateName(fanDisplayName || 'Unknown')}
       </p>
     </Link>
   );
+ 
 }
