@@ -336,7 +336,7 @@
     "category": "Wall Mounted Fans"
   },
   {
-    "urlCode": "volley-blk ",
+    "urlCode": "volley-blk",
     "modelName": "Volley – 15” Oscillating Wall and Ceiling Fan with Remote and Timer",
     "fanSize": "15 Inch",
     "fanFinish": "Matte Black",
@@ -833,12 +833,12 @@
     "category": "Hugger Ceiling Fans"
   },
   {
-    "urlCode": "cosmo-mg",
+    "urlCode": "cosmo",
     "modelName": "Cosmo – 52″ Wooden Hugger Fan for Low Ceilings | Remote Control",
     "fanSize": "52 inch",
     "fanFinish": "Matte Gold ",
     "variations": [
-      "cosmo-mg"
+      "cosmo"
     ],
     "related": [
       "millennium-blk",
@@ -1494,7 +1494,7 @@
       "cosmo",
       "maestro-sg",
       "lilliput-light",
-      "millenium"
+      "millenium-wt"
     ],
     "category": "Hugger Ceiling Fans"
   },
@@ -1512,7 +1512,7 @@
       "cosmo",
       "maestro-sg",
       "lilliput-light",
-      "millenium"
+      "millenium-wt"
     ],
     "category": "Hugger Ceiling Fans"
   },
@@ -1530,7 +1530,7 @@
       "cosmo",
       "maestro-sg",
       "lilliput-light",
-      "millenium"
+      "millenium-wt"
     ],
     "category": "Hugger Ceiling Fans"
   },
@@ -1548,7 +1548,7 @@
       "cosmo",
       "maestro-sg",
       "lilliput-light",
-      "millenium"
+      "millenium-wt"
     ],
     "category": "Hugger Ceiling Fans"
   },
@@ -1563,7 +1563,7 @@
     "related": [
       "cosmo",
       "maestro-sg",
-      "millenium",
+      "millenium-wt",
       "sleekair-wt"
     ],
     "category": "Hugger Ceiling Fans"
@@ -1579,7 +1579,7 @@
     "related": [
       "cosmo",
       "maestro-sg",
-      "millenium",
+      "millenium-wt",
       "sleekair-wt"
     ],
     "category": "Hugger Ceiling Fans"
@@ -1596,8 +1596,8 @@
     ],
     "related": [
       "cosmo",
-      "lilliputdark",
-      "millenium",
+      "lilliput-dark",
+      "millenium-wt",
       "sleekair-wt"
     ],
     "category": "Hugger Ceiling Fans"
@@ -1614,8 +1614,8 @@
     ],
     "related": [
       "cosmo",
-      "lilliputdark",
-      "millenium",
+      "lilliput-dark",
+      "millenium-wt",
       "sleekair-wt"
     ],
     "category": "Hugger Ceiling Fans"
@@ -1632,8 +1632,8 @@
     ],
     "related": [
       "cosmo",
-      "lilliputdark",
-      "millenium",
+      "lilliput-dark",
+      "millenium-wt",
       "sleekair-wt"
     ],
     "category": "Hugger Ceiling Fans"
@@ -1650,8 +1650,8 @@
     ],
     "related": [
       "cosmo",
-      "lilliputdark",
-      "millenium",
+      "lilliput-dark",
+      "millenium-wt",
       "sleekair-wt"
     ],
     "category": "Hugger Ceiling Fans"
@@ -1797,8 +1797,8 @@
     ],
     "related": [
       "cosmo",
-      "lilliputdark",
-      "millenium",
+      "lilliput-dark",
+      "millenium-wt",
       "sleekair-wt"
     ],
     "category": "Hugger Ceiling Fans"
@@ -1813,8 +1813,7 @@
     ],
     "related": [
       "cosmo",
-      "lilliputdark",
-      "millenium",
+      "lilliput-dark",
       "sleekair-wt"
     ],
     "category": "Hugger Ceiling Fans"
@@ -2999,7 +2998,7 @@
     "category": "Retractable Blade Fans"
   },
   {
-    "urlCode": "Dahlia",
+    "urlCode": "dahlia",
     "modelName": "Dahlia – 42″ Retractable Kids Ceiling Fan",
     "fanSize": "42 Inch",
     "fanFinish": "Matte White and Light Blue",
