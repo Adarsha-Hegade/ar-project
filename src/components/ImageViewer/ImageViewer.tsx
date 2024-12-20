@@ -65,7 +65,7 @@ export function ImageViewer({ fanName }: ImageViewerProps) {
             loading ? 'opacity-0' : 'opacity-100'
           }`}
           style={{
-            transform: `translate(-50%, -90%) translate(${position.x}px, ${position.y}px) scale(${scale})`,
+            transform: `translate(-50%, -50%) translate(${position.x}px, ${position.y}px) scale(${scale})`,
           }}
         />
       )}

@@ -472,7 +472,7 @@
     "urlCode": "cindrella-rg",
     "modelName": "Cindrella – 20″ Designer Ceiling Fan with LED Rings and Remote Control",
     "fanSize": "20 inch",
-    "fanFinish": "Rose Gold",
+    "fanFinish": "French Gold",
     "variations": [
       "cindrella-rg"
     ],
@@ -520,14 +520,27 @@
     "urlCode": "flora-rg",
     "modelName": "Flora – 16″ Designer Chandelier Fan with LED Light for Small Spaces",
     "fanSize": "20 inch",
-    "fanFinish": "Rose Gold / Dark Brown",
+    "fanFinish": "Rose Gold",
     "variations": [
-      "flora-db"
+      "flora-db,flora-fg"
     ],
     "related": [
       "saffron-fg",
       "luster-gd",
-      "flora-db",
+      "rosy-rg"
+    ],
+    "category": "Fandelier Fans"
+  },  {
+    "urlCode": "flora-fg",
+    "modelName": "Flora – 16″ Designer Chandelier Fan with LED Light for Small Spaces",
+    "fanSize": "20 inch",
+    "fanFinish": "French Gold",
+    "variations": [
+      "flora-db, flora-fg"
+    ],
+    "related": [
+      "saffron-fg",
+      "luster-gd",
       "rosy-rg"
     ],
     "category": "Fandelier Fans"
@@ -536,14 +549,13 @@
     "urlCode": "flora-db",
     "modelName": "Flora – 16″ Designer Chandelier Fan with LED Light for Small Spaces",
     "fanSize": "20 inch",
-    "fanFinish": "Rose Gold / Dark Brown",
+    "fanFinish": "Dark Brown",
     "variations": [
       "flora-rg"
     ],
     "related": [
       "saffron-fg",
       "luster-gd",
-      "flora-db",
       "rosy-rg"
     ],
     "category": "Fandelier Fans"
