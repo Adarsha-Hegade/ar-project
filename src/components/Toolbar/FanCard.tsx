@@ -167,7 +167,7 @@ export function FanCard({ fanUrlCode, fanDisplayName }: FanCardProps) {
           </div>
         ) : (
           <img
-            src={`/images/${fanUrlCode}.png`}
+            src={`/images/thumbs/${fanUrlCode}.png`}
             alt={fanDisplayName || 'Fan'}
             className={`h-auto w-auto object-cover p-3 transition-all duration-300 ${
               loading ? 'opacity-0' : 'opacity-100'

@@ -18,7 +18,7 @@ export function FanGrid({ fans }: FanGridProps) {
         >
           <div className="relative aspect-square overflow-hidden rounded-lg bg-gray-800">
             <img
-              src={`/images/${fan.urlCode}.png`}
+              src={`/images/thumbs/${fan.urlCode}.png`}
               alt={fan.modelName}
               className="h-full w-full object-cover transition-transform duration-300 group-hover:scale-110"
               onError={(e) => {
