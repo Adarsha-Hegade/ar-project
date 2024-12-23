@@ -245,7 +245,7 @@ export function Toolbar({ isOpen, currentFan }: ToolbarProps) {
           {currentFanData.related.map((relatedUrlCode) => {
             const relatedFan = fanData.find((fan) => fan.urlCode === relatedUrlCode);
             const fanName = relatedFan?.modelName ? truncateName(relatedFan.modelName) : relatedUrlCode;
-            console.log(truncateName("Italio – 52″ Stainless Silver Ceiling Fan with Special Wooden Blades"));
+           
             return (
               <FanCard
                 key={relatedUrlCode}

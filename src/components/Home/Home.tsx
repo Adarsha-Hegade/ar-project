@@ -3,6 +3,10 @@ import { useFanData } from '../../hooks/useFanData';
 import { FanGrid } from '../FanGrid/FanGrid';
 
 export function Home() {
+  console.log(
+    "%cDeveloped with ❤️ by https://inktypedesign.studio/",
+    "color: #ff69b4; font-size: 16px; font-weight: bold;"
+  );
   const { fanData, loading, error } = useFanData();
 
   if (loading) {
@@ -22,7 +26,7 @@ export function Home() {
   }
 
   const categories = [...new Set(fanData.map(fan => fan.category))];
-
+  
   return (
     <div className="min-h-screen w-full overflow-y-auto pb-20">
       <div className="mx-auto max-w-7xl px-4 py-8">
