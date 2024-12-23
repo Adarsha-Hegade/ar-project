@@ -1245,7 +1245,7 @@
     "related": [
       "italio-slvr",
       "airforce-bw",
-      "amber-blk",
+      "-blk",
       "breeza"
     ],
     "category": "Modern & Contemporary Fans"
@@ -1305,7 +1305,7 @@
     "related": [
       "spider",
       "radar",
-      "amber",
+      "amber-wt",
       "desire"
     ],
     "category": "Colossal Fans"
@@ -1318,7 +1318,7 @@
     "variations": [],
     "related": [
       "airforce",
-      "amber",
+      "amber-wt",
       "infinity",
       "sensation-walnut",
       "falcon-wooden"
@@ -1336,7 +1336,7 @@
     ],
     "related": [
       "airforce",
-      "amber",
+      "amber-wt",
       "infinity",
       "sensation-walnut",
       "desire"
@@ -1354,7 +1354,7 @@
     ],
     "related": [
       "airforce",
-      "amber",
+      "amber-wt",
       "infinity",
       "sensation-walnut",
       "desire"
@@ -1372,7 +1372,7 @@
     ],
     "related": [
       "airforce",
-      "amber",
+      "amber-wt",
       "infinity",
       "sensation-walnut",
       "desire"
@@ -1392,7 +1392,7 @@
     ],
     "related": [
       "airforce",
-      "amber",
+      "amber-wt",
       "infinity",
       "desire",
       "falcon-black"
@@ -1412,7 +1412,7 @@
     ],
     "related": [
       "airforce",
-      "amber",
+      "amber-wt",
       "infinity",
       "desire",
       "falcon-white"
@@ -1432,7 +1432,7 @@
     ],
     "related": [
       "airforce",
-      "amber",
+      "amber-wt",
       "infinity",
       "desire",
       "falcon-black"
@@ -1452,7 +1452,7 @@
     ],
     "related": [
       "airforce",
-      "amber",
+      "amber-wt",
       "infinity",
       "desire",
       "falcon-wooden"
@@ -1472,7 +1472,7 @@
     ],
     "related": [
       "airforce",
-      "amber",
+      "amber-wt",
       "infinity",
       "desire",
       "falcon-wooden"
@@ -2088,7 +2088,6 @@
       "amber-wt",
       "falcon-blk",
       "harrier-blk",
-      "amber-wt",
       "columbia-wt"
     ],
     "category": "Modern & Contemporary Fans"
