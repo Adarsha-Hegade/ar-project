@@ -389,7 +389,7 @@
     "category": "Wall Mounted Fans"
   },
   {
-    "urlCode": "zephyre-wt",
+    "urlCode": "zephyre",
     "modelName": "Zephyre – 23″ Modern Ceiling Fan Rotating Ceiling Fan with Light",
     "fanSize": "20 inch",
     "fanFinish": "Matte White",
@@ -410,7 +410,7 @@
     "fanSize": "20 inch",
     "fanFinish": "Wooden Finish",
     "variations": [
-      "zephyre-wt"
+      "zephyre"
     ],
     "related": [
       "cindrella-rg",
@@ -445,10 +445,9 @@
       "freesia-sg"
     ],
     "related": [
-      "bronze-bw",
-      "rays-wt",
-      "sparkle-dc",
-      "regal-wt"
+      "bronze",
+      "sparkle",
+      "regal"
     ],
     "category": "Modern & Contemporary Fans"
   },
@@ -1212,7 +1211,7 @@
       "italio-wt"
     ],
     "related": [
-      "desire-wt",
+      "desire",
       "airforce-bw",
       "amber-blk",
       "breeza"
@@ -1276,7 +1275,7 @@
       "italio-slvr"
     ],
     "related": [
-      "desire-wt",
+      "desire",
       "airforce-bw",
       "amber-blk",
       "breeza"
@@ -1340,7 +1339,7 @@
       "amber",
       "infinity",
       "sensation-walnut",
-      "desire-wt"
+      "desire"
     ],
     "category": "Modern Wooden Fans"
   },
@@ -1358,7 +1357,7 @@
       "amber",
       "infinity",
       "sensation-walnut",
-      "desire-wt"
+      "desire"
     ],
     "category": "Modern & Contemporary Fans"
   },
@@ -1376,7 +1375,7 @@
       "amber",
       "infinity",
       "sensation-walnut",
-      "desire-wt"
+      "desire"
     ],
     "category": "Modern & Contemporary Fans"
   },
@@ -1395,7 +1394,7 @@
       "airforce",
       "amber",
       "infinity",
-      "desire-wt",
+      "desire",
       "falcon-black"
     ],
     "category": "Modern & Contemporary Fans"
@@ -1415,7 +1414,7 @@
       "airforce",
       "amber",
       "infinity",
-      "desire-wt",
+      "desire",
       "falcon-white"
     ],
     "category": "Modern & Contemporary Fans"
@@ -1435,7 +1434,7 @@
       "airforce",
       "amber",
       "infinity",
-      "desire-wt",
+      "desire",
       "falcon-black"
     ],
     "category": "Modern & Contemporary Fans"
@@ -1455,7 +1454,7 @@
       "airforce",
       "amber",
       "infinity",
-      "desire-wt",
+      "desire",
       "falcon-wooden"
     ],
     "category": "Modern & Contemporary Fans"
@@ -1475,7 +1474,7 @@
       "airforce",
       "amber",
       "infinity",
-      "desire-wt",
+      "desire",
       "falcon-wooden"
     ],
     "category": "Modern & Contemporary Fans"
@@ -1669,7 +1668,7 @@
     ],
     "related": [
       "columbia-wt",
-      "luker-wooden",
+      "luker-walnut",
       "sensation-wt",
       "spectra-wt"
     ],
@@ -1767,7 +1766,7 @@
       "columbia-wt",
       "airforce-wt",
       "spectra-wt",
-      "desire-wt"
+      "desire"
     ],
     "category": "Modern & Contemporary Fans"
   },
@@ -1945,7 +1944,7 @@
       "airforce-blk"
     ],
     "related": [
-      "luker-wooden",
+      "luker-walnut",
       "sensation-walnut",
       "whisper",
       "reva-sw"
@@ -1964,7 +1963,7 @@
       "airforce-blk"
     ],
     "related": [
-      "luker-wooden",
+      "luker-walnut",
       "sensation-walnut",
       "whisper",
       "reva-sw"
@@ -1983,7 +1982,7 @@
       "airforce-blk"
     ],
     "related": [
-      "luker-wooden",
+      "luker-walnut",
       "sensation-walnut",
       "whisper",
       "reva-sw"
@@ -2002,7 +2001,7 @@
       "airforce-blk"
     ],
     "related": [
-      "luker-wooden",
+      "luker-walnut",
       "sensation-walnut",
       "whisper",
       "reva-sw"
@@ -2996,7 +2995,7 @@
       "dianna"
     ],
     "category": "Retractable Blade Fans"
-  },
+  }, 
   {
     "urlCode": "dahlia",
     "modelName": "Dahlia – 42″ Retractable Kids Ceiling Fan",
@@ -3046,8 +3045,8 @@
     "category": "Retractable Blade Fans"
   },
   {
-    "urlCode": "jupitor",
-    "modelName": "Jupitor  – 42″ Retractable Ceiling Fan",
+    "urlCode": "jupiter",
+    "modelName": "Jupiter  – 42″ Retractable Ceiling Fan",
     "fanSize": "42 Inch",
     "fanFinish": "Antique Brass",
     "variations": [],
@@ -3063,7 +3062,7 @@
     "category": "Retractable Blade Fans"
   },
   {
-    "urlCode": "raibow",
+    "urlCode": "rainbow",
     "modelName": "Rainbow – 36″ Small Kids Designer Fan",
     "fanSize": "36 Inch",
     "fanFinish": "Light Blue",
@@ -3072,7 +3071,6 @@
       "dahlia",
       "galaxy",
       "kidzy",
-      "rainbow",
       "aviator"
     ],
     "category": "Kids Fans Collection"
@@ -3190,8 +3188,8 @@
     ],
     "related": [
       "columbia-wt",
-      "swan-wt",
-      "luker-wooden",
+      "swift-plus-wt",
+      "luker-walnut",
       "sensation-wt",
       "spectra-wt"
     ],
@@ -3207,8 +3205,8 @@
     ],
     "related": [
       "columbia-wt",
-      "swan-wt",
-      "luker-wooden",
+      "swift-plus-wt",
+      "luker-walnut",
       "sensation-wt",
       "spectra-wt"
     ],
@@ -3223,8 +3221,8 @@
       "columbia-blk"
     ],
     "related": [
-      "swan-wt",
-      "luker-wooden",
+      "swift-plus-wt",
+      "luker-walnut",
       "sensation-wt",
       "spectra-wt"
     ],
@@ -3239,8 +3237,8 @@
       "columbia-wt"
     ],
     "related": [
-      "swan-blk",
-      "luker-wooden",
+      "swift-plus-blk",
+      "luker-walnut",
       "sensation-blk",
       "amber-blk"
     ],
@@ -3293,7 +3291,7 @@
   },
   {
     "urlCode": "swan-plus",
-    "modelName": "Swan - 52\" Vintage Antique Brass Fan with LED",
+    "modelName": "Swan plus - 52\" Vintage Antique Brass Fan with LED",
     "fanSize": "52 Inch",
     "fanFinish": "Antique Brass - Walnut",
     "variations": [
@@ -3366,7 +3364,7 @@
     ],
     "related": [
       "swan-plus-black",
-      "swan-wt",
+      "swift-plus-wt",
       "columbia-wt",
       "spectra-wt"
     ],
@@ -3374,7 +3372,7 @@
   },
   {
     "urlCode": "orion-plus",
-    "modelName": "Orion -60\" Vintage Fan with LED",
+    "modelName": "Orion plus -60\" Vintage Fan with LED",
     "fanSize": "60 Inch",
     "fanFinish": "Antique Brass - Walnut",
     "variations": [
