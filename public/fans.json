@@ -1117,12 +1117,12 @@
     "category": "Modern Wooden Fans"
   },
   {
-    "urlCode": "walnut-sw",
+    "urlCode": "walnut",
     "modelName": "Walnut – 48″ Wooden Ceiling Fan with Antique Brass Finish | Remote Control",
     "fanSize": "48 inch",
     "fanFinish": "Antique Brass",
     "variations": [
-      "walnut-sw"
+     
     ],
     "related": [
       "cherry-sp",
@@ -2600,7 +2600,7 @@
       "rio",
       "amor",
       "euro",
-      "walnut-sw",
+      "walnut",
       "valencia-ab"
     ],
     "category": "Vintage Classic Wooden Ceiling Fans"
@@ -2614,7 +2614,7 @@
     "related": [
       "amor",
       "euro",
-      "walnut-sw",
+      "walnut",
       "valencia-ab"
     ],
     "category": "Vintage Classic Wooden Ceiling Fans"
@@ -3339,7 +3339,7 @@
     ],
     "related": [
       "orion-plus",
-      "walnut-sw",
+      "walnut",
       "valencia-ab"
     ],
     "category": "Vintage Classic Wooden Ceiling Fans"
