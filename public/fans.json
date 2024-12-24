@@ -681,7 +681,7 @@
     ],
     "related": [
       "valencia-ab",
-      "canberry",
+      
       "vintage-ab",
       "europia"
     ],
@@ -693,10 +693,9 @@
     "fanSize": "53 inch",
     "fanFinish": "Spray Painted",
     "variations": [
-      "cherry-sp"
+      
     ],
     "related": [
-      "canberry",
       "canberry",
       "vintage-ab",
       "europia"
@@ -832,10 +831,10 @@
     "fanSize": "52 inch",
     "fanFinish": "Matte Gold ",
     "variations": [
-      "cosmo"
+
     ],
     "related": [
-      "millennium-blk",
+      "millenium-blk",
       "sleekair-wt",
       "lilliput-lw",
       "maestro-sg"
@@ -1299,7 +1298,7 @@
     "variations": [],
     "related": [
       "spider",
-      "radar",
+      "radar-blk",
       "amber-wt",
       "desire"
     ],
@@ -1903,7 +1902,7 @@
     ],
     "related": [
       "valencia-ab",
-      "daisy-brown",
+      "daisy-wooden",
       "isla-hp",
       "cherry-sp"
     ],
@@ -1923,7 +1922,7 @@
       "valencia-ab",
       "isla-hp",
       "cherry-sp",
-      "daisy-brown"
+      "daisy-wooden"
     ],
     "category": "Vintage Classic Wooden Ceiling Fans"
   },
@@ -2508,6 +2507,20 @@
     "fanFinish": "Wooden Finish",
     "variations": [
       "daisy-wt"
+    ],
+    "related": [
+      "classic-dark",
+      "classic-light",
+      "valencia-ab"
+    ],
+    "category": "Vintage Classic Wooden Ceiling Fans"
+  },{
+    "urlCode": "daisy-wt",
+    "modelName": "Daisy - 52\" Leaf Design Ceiling Fan",
+    "fanSize": "52 Inch",
+    "fanFinish": "Matte White",
+    "variations": [
+      "daisy-wooden"
     ],
     "related": [
       "classic-dark",
