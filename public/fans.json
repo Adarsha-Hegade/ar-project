@@ -1782,7 +1782,7 @@
       "columbia-blk",
       "airforce-blk",
       "spectra-blk",
-      "desire-blk"
+      "desire"
     ],
     "category": "Modern & Contemporary Fans"
   },
@@ -1830,7 +1830,7 @@
     "related": [
       "airforce-ebony",
       "harrier-wt",
-      "falcon-blk",
+      "falcon-black",
       "spectra-blk",
       "venice"
     ],
@@ -1850,7 +1850,7 @@
       "spectra-wooden",
       "airforce-ebony",
       "harrier-blk",
-      "falcon-wt",
+      "falcon-white",
       "spectra-wooden",
       "venice"
     ],
@@ -1870,7 +1870,7 @@
       "spectra-wooden",
       "airforce-ebony",
       "harrier-blk",
-      "falcon-wt",
+      "falcon-white",
       "spectra-wooden",
       "venice"
     ],
@@ -1890,7 +1890,7 @@
       "spectra-wooden",
       "airforce-ebony",
       "harrier-blk",
-      "falcon-wt",
+      "falcon-white",
       "spectra-wooden",
       "venice"
     ],
@@ -2040,7 +2040,7 @@
       "harrier-blk",
       "amber-blk",
       "columbia-blk",
-      "falcon-wt"
+      "falcon-white"
     ],
     "category": "Modern & Contemporary Fans"
   },
@@ -2057,7 +2057,7 @@
       "harrier-wt",
       "amber-wt",
       "columbia-blk",
-      "falcon-blk"
+      "falcon-black"
     ],
     "category": "Modern & Contemporary Fans"
   },
@@ -2086,7 +2086,7 @@
     "variations": [],
     "related": [
       "amber-wt",
-      "falcon-blk",
+      "falcon-black",
       "harrier-blk",
       "columbia-wt"
     ],
@@ -2101,7 +2101,7 @@
     "related": [
       "elegant-blk",
       "amber-blk",
-      "falcon-blk",
+      "falcon-black",
       "harrier-wt",
       "columbia-wt"
     ],
@@ -2116,7 +2116,7 @@
       "amber-blk"
     ],
     "related": [
-      "falcon-wt",
+      "falcon-white",
       "harrier-blk",
       "columbia-wt"
     ],
@@ -2131,7 +2131,7 @@
       "amber-wt"
     ],
     "related": [
-      "falcon-blk",
+      "falcon-black",
       "harrier-blk",
       "columbia-wt"
     ],
@@ -2146,7 +2146,7 @@
       "elegant-blk"
     ],
     "related": [
-      "falcon-wt",
+      "falcon-white",
       "harrier-blk",
       "columbia-wt"
     ],
@@ -2161,7 +2161,7 @@
       "elegant-wt"
     ],
     "related": [
-      "falcon-blk",
+      "falcon-black",
       "harrier-wt",
       "columbia-wt"
     ],
@@ -2176,7 +2176,7 @@
     "related": [
       "elegant-wt",
       "elegant-blk",
-      "falcon-blk",
+      "falcon-black",
       "harrier-wt",
       "columbia-wt"
     ],
@@ -2239,7 +2239,7 @@
     "related": [
       "infinity",
       "elegant-blk",
-      "falcon-blk",
+      "falcon-black",
       "harrier-wt",
       "columbia-wt"
     ],
@@ -2255,7 +2255,7 @@
     ],
     "related": [
       "elegant-wt",
-      "falcon-blk",
+      "falcon-black",
       "harrier-wt",
       "columbia-wt"
     ],
@@ -2272,7 +2272,7 @@
     ],
     "related": [
       "elegant-wt",
-      "falcon-blk",
+      "falcon-black",
       "harrier-wt",
       "columbia-wt"
     ],
@@ -2291,7 +2291,7 @@
     ],
     "related": [
       "elegant-wt",
-      "falcon-blk",
+      "falcon-black",
       "harrier-wt",
       "columbia-wt"
     ],
@@ -2310,7 +2310,7 @@
     ],
     "related": [
       "elegant-wt",
-      "falcon-blk",
+      "falcon-black",
       "harrier-wt",
       "columbia-wt"
     ],
@@ -2326,7 +2326,7 @@
     ],
     "related": [
       "elegant-wt",
-      "falcon-blk",
+      "falcon-black",
       "harrier-wt",
       "columbia-wt"
     ],
@@ -2342,7 +2342,7 @@
     ],
     "related": [
       "elegant-wt",
-      "falcon-blk",
+      "falcon-black",
       "harrier-wt",
       "columbia-wt"
     ],
@@ -2360,7 +2360,7 @@
     ],
     "related": [
       "elegant-wt",
-      "falcon-blk",
+      "falcon-black",
       "harrier-wt",
       "columbia-wt"
     ],
@@ -2378,7 +2378,7 @@
     ],
     "related": [
       "elegant-wt",
-      "falcon-blk",
+      "falcon-black",
       "harrier-wt",
       "columbia-wt"
     ],
@@ -2619,7 +2619,7 @@
     "variations": [],
     "related": [
       "elegant-wt",
-      "falcon-blk",
+      "falcon-black",
       "harrier-wt",
       "columbia-wt"
     ],
@@ -2636,7 +2636,7 @@
     ],
     "related": [
       "elegant-wt",
-      "falcon-blk",
+      "falcon-black",
       "harrier-wt",
       "columbia-wt"
     ],
@@ -2653,7 +2653,7 @@
     ],
     "related": [
       "elegant-blk",
-      "falcon-wt",
+      "falcon-white",
       "harrier-blk",
       "columbia-wt"
     ],
@@ -2670,7 +2670,7 @@
     ],
     "related": [
       "elegant-blk",
-      "falcon-wt",
+      "falcon-white",
       "harrier-blk",
       "columbia-wt"
     ],
@@ -3413,7 +3413,7 @@
       "columbia-wt",
       "spectra-wt",
       "amber-wt",
-      "falcon-wt"
+      "falcon-white"
     ],
     "category": "Colossal Fans"
   },
@@ -3431,7 +3431,7 @@
       "columbia-wt",
       "spectra-wt",
       "amber-wt",
-      "falcon-wt"
+      "falcon-white"
     ],
     "category": "Modern & Contemporary Fans"
   },
@@ -3449,7 +3449,7 @@
       "columbia-blk",
       "spectra-blk",
       "amber-wt",
-      "falcon-blk"
+      "falcon-black"
     ],
     "category": "Modern & Contemporary Fans"
   },
@@ -3467,7 +3467,7 @@
       "columbia-blk",
       "spectra-blk",
       "amber-wt",
-      "falcon-blk"
+      "falcon-black"
     ],
     "category": "Modern & Contemporary Fans"
   }
