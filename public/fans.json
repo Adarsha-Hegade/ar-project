@@ -421,12 +421,12 @@
     "category": "Fandelier Fans"
   },
   {
-    "urlCode": "aviator-sb",
+    "urlCode": "aviator",
     "modelName": "Aviator – 36″ Helicopter Ceiling Fan with LED Light for Kids Rooms",
     "fanSize": "36 inch",
     "fanFinish": "Sky Blue",
     "variations": [
-      "aviator-sb"
+      "aviator"
     ],
     "related": [
       "galaxy",
@@ -632,7 +632,7 @@
       "isla-hp"
     ],
     "related": [
-      "valencia-dcry",
+      "valencia-ab",
       "canberry",
       "vintage-ab",
       "europia"
@@ -672,12 +672,12 @@
     "category": "Vintage Classic Wooden Ceiling Fans"
   },
   {
-    "urlCode": "canberry-sp",
+    "urlCode": "canberry",
     "modelName": "Canberry – 53” Wooden Ceiling Fan with Remote Control",
     "fanSize": "53 inch",
     "fanFinish": "Spray Painted",
     "variations": [
-      "canberry-sp"
+      
     ],
     "related": [
       "valencia-ab",
@@ -696,7 +696,7 @@
       "cherry-sp"
     ],
     "related": [
-      "canberry-sp",
+      "canberry",
       "canberry",
       "vintage-ab",
       "europia"
@@ -2523,7 +2523,7 @@
     "fanFinish": "Transparent ABS Blades",
     "variations": [],
     "related": [
-      "windmil-blue",
+      "windmill-blue",
       "galaxy",
       "kidzy",
       "rainbow",
@@ -2999,7 +2999,7 @@
     "related": [
       "regal",
       "jasmine",
-      "windmil-blue",
+      "windmill-blue",
       "galaxy",
       "kidzy",
       "rainbow"
