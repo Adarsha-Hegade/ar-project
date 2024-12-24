@@ -71,7 +71,7 @@
       "desky",
       "standie",
       "eiffel-blk",
-      "eiffell-wooden",
+      "eiffel-wooden",
       "nova",
       "nova-mini",
       "innovation"
@@ -88,7 +88,7 @@
       "matrix-gg",
       "standie",
       "eiffel-blk",
-      "eiffell-wooden",
+      "eiffel-wooden",
       "nova",
       "nova-mini",
       "innovation"
@@ -107,7 +107,7 @@
       "desky",
       "standie",
       "eiffel-blk",
-      "eiffell-wooden",
+      "eiffel-wooden",
       "nova",
       "nova-mini",
       "innovation"
@@ -187,7 +187,7 @@
       "volley-plus",
       "volley-wt",
       "volley-blk",
-      "wendy"
+      "wendy-ss"
     ],
     "category": "Wall Mounted Fans"
   },
@@ -205,7 +205,7 @@
       "volley-plus",
       "volley-wt",
       "volley-blk",
-      "wendy"
+      "wendy-sg"
     ],
     "category": "Wall Mounted Fans"
   },
@@ -223,7 +223,7 @@
       "volley-plus",
       "volley-wt",
       "volley-blk",
-      "wendy"
+      "wendy-sg"
     ],
     "category": "Wall Mounted Fans"
   },
@@ -241,7 +241,7 @@
       "volley-plus",
       "volley-wt",
       "volley-blk",
-      "wendy"
+      "wendy-sg"
     ],
     "category": "Wall Mounted Fans"
   },
@@ -259,7 +259,7 @@
       "volley-plus",
       "volley-wt",
       "volley-blk",
-      "wendy"
+      "wendy-sg"
     ],
     "category": "Wall Mounted Fans"
   },
@@ -277,7 +277,7 @@
       "volley-plus",
       "volley-wt",
       "volley-blk",
-      "wendy"
+      "wendy-sg"
     ],
     "category": "Wall Mounted Fans"
   },
@@ -521,7 +521,7 @@
     "fanSize": "20 inch",
     "fanFinish": "Rose Gold",
     "variations": [
-      "flora-db,flora-fg"
+      "flora-db" ,"flora-fg"
     ],
     "related": [
       "saffron-fg",
@@ -535,7 +535,7 @@
     "fanSize": "20 inch",
     "fanFinish": "French Gold",
     "variations": [
-      "flora-db, flora-fg"
+      "flora-db", "flora-rg"
     ],
     "related": [
       "saffron-fg",
@@ -550,7 +550,7 @@
     "fanSize": "20 inch",
     "fanFinish": "Dark Brown",
     "variations": [
-      "flora-rg"
+      "flora-rg", "flora-db"
     ],
     "related": [
       "saffron-fg",
@@ -1187,7 +1187,7 @@
     "fanSize": "52 inch",
     "fanFinish": "Stainless Steel",
     "variations": [
-      "liberty-ss"
+      
     ],
     "related": [
       "luxair-go",
