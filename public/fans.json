@@ -750,12 +750,11 @@
     "category": "Modern Wooden Fans"
   },
   {
-    "urlCode": "stallion-dw",
+    "urlCode": "stallion",
     "modelName": "Stallion – 56″ Modern Wooden Ceiling Fan with Remote Control",
     "fanSize": "52 inch",
     "fanFinish": "Matte Black",
     "variations": [
-      "stallion-dw"
     ],
     "related": [
       "propeller-blk",
@@ -770,11 +769,9 @@
     "modelName": "Oakwood – 54″ Modern Wooden Ceiling Fan with Remote Control",
     "fanSize": "54 inch",
     "fanFinish": "Oil Rubbed Bronze Finish",
-    "variations": [
-      "oakwood-dw"
-    ],
+    "variations": [],
     "related": [
-      "stallion-db",
+    "stallion",
       "propeller-blk",
       "caramel-aw",
       "delta-go"
