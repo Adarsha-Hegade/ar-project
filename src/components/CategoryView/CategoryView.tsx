@@ -2,6 +2,7 @@ import React from 'react';
 import { useParams, Navigate } from 'react-router-dom';
 import { FanGrid } from '../FanGrid/FanGrid';
 import { useFanData } from '../../hooks/useFanData';
+import { Footer } from '../Footer/Footer';
 
 export function CategoryView() {
   const { category } = useParams<{ category: string }>();
@@ -32,6 +33,7 @@ export function CategoryView() {
         <h1 className="mb-8 text-3xl font-bold text-white">{decodedCategory}</h1>
         <FanGrid fans={categoryFans} />
       </div>
+      <Footer/>
     </div>
   );
 }

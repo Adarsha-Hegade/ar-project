@@ -1,7 +1,7 @@
 import React from 'react';
 import { useFanData } from '../../hooks/useFanData';
 import { FanGrid } from '../FanGrid/FanGrid';
-
+import { Footer } from '../Footer/Footer';
 export function Home() {
   console.log(
     "%cDeveloped with ❤️ by https://inktypedesign.studio/",
@@ -37,6 +37,7 @@ export function Home() {
           </div>
         ))}
       </div>
+      <Footer/>
     </div>
   );
 }
