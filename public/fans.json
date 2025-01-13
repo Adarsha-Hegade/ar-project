@@ -841,6 +841,7 @@
     ],
     "category": "Hugger Ceiling Fans"
   },
+
   {
     "urlCode": "oakwoodplus-dw",
     "modelName": "Oakwood Plus – 54″ Modern Ceiling Fan with Solid Wood Blades and LED Light",
@@ -849,7 +850,7 @@
     "variations": [
       "oakwoodplus-dw"
     ],
-    "related": [
+    "related": [ 
       "infinity",
       "luker-wnt",
       "reva-sw",
@@ -857,6 +858,7 @@
     ],
     "category": "Modern Wooden Fans"
   },
+  
   {
     "urlCode": "caramel-aw",
     "modelName": "Caramel – 56” Modern Wooden Ceiling Fan with Remote Control",
