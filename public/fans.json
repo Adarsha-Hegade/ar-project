@@ -397,7 +397,7 @@
       "zephyre-wood"
     ],
     "related": [
-      "cindrella-rg",
+      "cinderella",
       "saffron-fg",
       "flora-db",
       "rosy-rg"
@@ -413,7 +413,7 @@
       "zephyre"
     ],
     "related": [
-      "cindrella-rg",
+      "cinderella",
       "saffron-fg",
       "flora-db",
       "rosy-rg"
@@ -456,11 +456,9 @@
     "modelName": "Luster – 22″ Compact Chandelier Fan for Modern Homes",
     "fanSize": "22 inch",
     "fanFinish": "Gold",
-    "variations": [
-      "luster-gd"
-    ],
+    "variations": [],
     "related": [
-      "cindrella-rg",
+      "cinderella",
       "saffron-fg",
       "flora-db",
       "rosy-rg"
@@ -468,12 +466,12 @@
     "category": "Fandelier Fans"
   },
   {
-    "urlCode": "cindrella-rg",
+    "urlCode": "cinderella",
     "modelName": "Cindrella – 20″ Designer Ceiling Fan with LED Rings and Remote Control",
     "fanSize": "20 inch",
     "fanFinish": "French Gold",
     "variations": [
-      "cindrella-rg"
+      "cinderella"
     ],
     "related": [
       "luster-gd",
@@ -492,7 +490,7 @@
       "saffron-fg"
     ],
     "related": [
-      "cindrella-rg",
+      "cinderella",
       "luster-gd",
       "flora-db",
       "rosy-rg"
@@ -508,7 +506,7 @@
       "saffron-rg"
     ],
     "related": [
-      "cindrella-rg",
+      "cinderella",
       "luster-gd",
       "flora-db",
       "rosy-rg"
@@ -568,7 +566,7 @@
       "rosy-fg"
     ],
     "related": [
-      "cindrella-rg",
+      "cinderella",
       "luster-gd",
       "flora-db",
       "rosy-rg"
@@ -584,7 +582,7 @@
       "rosy-rg"
     ],
     "related": [
-      "cindrella-rg",
+      "cinderella",
       "luster-gd",
       "flora-db",
       "rosy-rg"
@@ -725,10 +723,10 @@
     "fanFinish": "Golden Oak Wood ",
     "variations": [],
     "related": [
-      "vintage-ab",
-      "canberry",
-      "isla-hp",
-      "europia"
+      "propeller-blk",
+      "beechwood-ss",
+      "delta-go",
+      "reva-sw"
     ],
     "category": "Modern Wooden Fans"
   },
@@ -798,9 +796,7 @@
     "modelName": "Beechwood – 54″ Modern Ceiling Fan with Wooden Blades | Remote Control",
     "fanSize": "54 inch",
     "fanFinish": "Stainless Steel",
-    "variations": [
-      "beechwood-ss"
-    ],
+    "variations": [],
     "related": [
       "reva-sw",
       "propeller-blk",
