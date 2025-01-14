@@ -341,13 +341,12 @@
     "fanSize": "15 Inch",
     "fanFinish": "Matte Black",
     "variations": [
-      "volley-blk",
       "volley-wt"
     ],
     "related": [
       "volley-plus",
       "windsor",
-      "volley-wt",
+"wend",
       "opus-wall",
       "artic-wall"
     ],
@@ -359,13 +358,12 @@
     "fanSize": "15 Inch",
     "fanFinish": "Matte White",
     "variations": [
-      "volley-blk",
-      "volley-wt"
+      "volley-blk"
     ],
     "related": [
       "volley-plus",
       "windsor",
-      "volley-wt",
+      "wend",
       "opus-wall",
       "artic-wall"
     ],
@@ -377,7 +375,7 @@
     "fanSize": "16 inch",
     "fanFinish": "Matte Black",
     "variations": [
-      "volley-plus"
+      
     ],
     "related": [
       "volley-wt",
