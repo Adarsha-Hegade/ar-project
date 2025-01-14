@@ -424,7 +424,6 @@
     "fanSize": "36 inch",
     "fanFinish": "Sky Blue",
     "variations": [
-      "aviator"
     ],
     "related": [
       "galaxy",
@@ -435,12 +434,12 @@
     "category": "Kids Fans Collection"
   },
   {
-    "urlCode": "freesia-sg",
+    "urlCode": "freesi",
     "modelName": "Freesia – 36″ Ceiling Fan with LED Light and Remote Control Multiple Speeds",
     "fanSize": "36 inch",
     "fanFinish": "Sand Gold",
     "variations": [
-      "freesia-sg"
+      "freesi"
     ],
     "related": [
       "bronze",
@@ -483,7 +482,7 @@
     "urlCode": "saffron-rg",
     "modelName": "Saffron – 24″ Modern Chandelier Fan with Remote",
     "fanSize": "24 inch",
-    "fanFinish": "French Gold / Rose Gold",
+    "fanFinish": "Rose Gold",
     "variations": [
       "saffron-fg"
     ],
@@ -499,7 +498,7 @@
     "urlCode": "saffron-fg",
     "modelName": "Saffron – 24″ Modern Chandelier Fan with Remote",
     "fanSize": "24 inch",
-    "fanFinish": "French Gold / Rose Gold",
+    "fanFinish": "French Gold",
     "variations": [
       "saffron-rg"
     ],
@@ -546,7 +545,7 @@
     "fanSize": "20 inch",
     "fanFinish": "Dark Brown",
     "variations": [
-      "flora-rg", "flora-db"
+      "flora-rg", "flora-fg"
     ],
     "related": [
       "saffron-fg",
@@ -561,18 +560,18 @@
     "fanSize": "24 inch",
     "fanFinish": "Rose Gold / French Gold",
     "variations": [
-      "rosy-fg"
+      "rosy"
     ],
     "related": [
       "cinderella",
       "luster-gd",
-      "flora-db",
-      "rosy-rg"
+      "flora-db"
+    
     ],
     "category": "Fandelier Fans"
   },
   {
-    "urlCode": "rosy-fg",
+    "urlCode": "rosy",
     "modelName": "Rosy – 24″ Small Chandelier Fan with Remote Control",
     "fanSize": "24 inch",
     "fanFinish": "Rose Gold / French Gold",
@@ -582,8 +581,8 @@
     "related": [
       "cinderella",
       "luster-gd",
-      "flora-db",
-      "rosy-rg"
+      "flora-db"
+      
     ],
     "category": "Fandelier Fans"
   },
@@ -591,7 +590,7 @@
     "urlCode": "florence-rg",
     "modelName": "Florence – 24″ Glamorous Chandelier Fan with Remote Control",
     "fanSize": "24 inch",
-    "fanFinish": "Rose Gold / French Gold",
+    "fanFinish": "Rose Gold",
     "variations": [
       "florence-fg"
     ],
@@ -607,7 +606,7 @@
     "urlCode": "florence-fg",
     "modelName": "Florence – 24″ Glamorous Chandelier Fan with Remote Control",
     "fanSize": "24 inch",
-    "fanFinish": "Rose Gold / French Gold",
+    "fanFinish": "French Gold",
     "variations": [
       "florence-rg"
     ],
