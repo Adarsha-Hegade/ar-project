@@ -623,9 +623,7 @@
     "modelName": "Isla – 52″ Vintage Classic Tiffany Design Ceiling Fan",
     "fanSize": "52 inch",
     "fanFinish": "Hand Painted",
-    "variations": [
-      "isla-hp"
-    ],
+    "variations": [    ],
     "related": [
       "valencia-ab",
       "canberry",
@@ -638,7 +636,7 @@
     "urlCode": "valencia-ab",
     "modelName": "Valencia – 52″ Vintage Classic Fan with Special Wooden Blades",
     "fanSize": "52 inch",
-    "fanFinish": "Antique Brass / Coffee Brown",
+    "fanFinish": "Antique Brass",
     "variations": [
       "valencia-cb"
     ],
@@ -654,7 +652,7 @@
     "urlCode": "valencia-cb",
     "modelName": "Valencia – 52″ Vintage Classic Fan with Special Wooden Blades",
     "fanSize": "52 inch",
-    "fanFinish": "Antique Brass / Coffee Brown",
+    "fanFinish": "Coffee Brown",
     "variations": [
       "valencia-ab"
     ],
@@ -703,7 +701,7 @@
     "fanSize": "52 inch",
     "fanFinish": "Antique Brass",
     "variations": [
-      "vintage-ab"
+      
     ],
     "related": [
       "cherry-sp",
@@ -733,7 +731,6 @@
     "fanSize": "52 inch",
     "fanFinish": "Matte Black",
     "variations": [
-      "propeller-blk"
     ],
     "related": [
       "whisper",
@@ -753,7 +750,7 @@
     "related": [
       "propeller-blk",
       "beechwood-ss",
-      "caramel-aw",
+      "caramel-aw","oak-do",
       "delta-go"
     ],
     "category": "Modern Wooden Fans"
@@ -778,7 +775,7 @@
     "fanSize": "52 inch",
     "fanFinish": "Matte Black",
     "variations": [
-      "reva-sw"
+     
     ],
     "related": [
       "oakwood-dw",
@@ -856,7 +853,7 @@
     "urlCode": "caramel-aw",
     "modelName": "Caramel – 56” Modern Wooden Ceiling Fan with Remote Control",
     "fanSize": "56 inch",
-    "fanFinish": "Golden Oak / Ashwood",
+    "fanFinish": "Ashwood",
     "variations": [
       "caramel-go"
     ],
@@ -872,7 +869,7 @@
     "urlCode": "caramel-go",
     "modelName": "Caramel – 56” Modern Wooden Ceiling Fan with Remote Control",
     "fanSize": "56 inch",
-    "fanFinish": "Golden Oak / Ashwood",
+    "fanFinish": "Golden Oak",
     "variations": [
       "caramel-aw"
     ],
@@ -888,7 +885,7 @@
     "urlCode": "oak-pw",
     "modelName": "Oak- 52″ Stylish Wooden Ceiling Fan with Remote Control",
     "fanSize": "52 inch",
-    "fanFinish": "Matte Bronze / Matte Black",
+    "fanFinish": "Pinewood",
     "variations": [
       "oak-do"
     ],
@@ -904,7 +901,7 @@
     "urlCode": "oak-do",
     "modelName": "Oak- 52″ Stylish Wooden Ceiling Fan with Remote Control",
     "fanSize": "52 inch",
-    "fanFinish": "Matte Bronze / Matte Black",
+    "fanFinish": "Dark Oak",
     "variations": [
       "oak-pw"
     ],
@@ -952,7 +949,7 @@
     "urlCode": "airwind-rw",
     "modelName": "Airwind – 52″ Inch Ceiling Fan with LED Light for Living Room",
     "fanSize": "52 inch",
-    "fanFinish": "Antique Brass / Chrome / Matte Black / Matte White",
+    "fanFinish": "Antique Brass & Rosewood",
     "variations": [
       "airwind-bw",
       "airwind-blk",
@@ -973,7 +970,7 @@
     "urlCode": "airwind-bw",
     "modelName": "Airwind – 52″ Inch Ceiling Fan with LED Light for Living Room",
     "fanSize": "52 inch",
-    "fanFinish": "Antique Brass / Chrome / Matte Black / Matte White",
+    "fanFinish": "Beechwood Matte White",
     "variations": [
       "airwind-rw",
       "airwind-blk",
@@ -994,7 +991,7 @@
     "urlCode": "airwind-blk",
     "modelName": "Airwind – 52″ Inch Ceiling Fan with LED Light for Living Room",
     "fanSize": "52 inch",
-    "fanFinish": "Antique Brass / Chrome / Matte Black / Matte White",
+    "fanFinish": "Matte Black",
     "variations": [
       "airwind-rw",
       "airwind-bw",
@@ -1015,7 +1012,7 @@
     "urlCode": "airwind-slvr",
     "modelName": "Airwind – 52″ Inch Ceiling Fan with LED Light for Living Room",
     "fanSize": "52 inch",
-    "fanFinish": "Antique Brass / Chrome / Matte Black / Matte White",
+    "fanFinish": "Chrome & Metallic Grey",
     "variations": [
       "airwind-rw",
       "airwind-bw",
@@ -1036,7 +1033,7 @@
     "urlCode": "airwind-rdw",
     "modelName": "Airwind – 52″ Inch Ceiling Fan with LED Light for Living Room",
     "fanSize": "52 inch",
-    "fanFinish": "Antique Brass / Chrome / Matte Black / Matte White",
+    "fanFinish": "Chrome & Redwood",
     "variations": [
       "airwind-rw",
       "airwind-bw",
@@ -1057,7 +1054,7 @@
     "urlCode": "airwind-wnt",
     "modelName": "Airwind – 52″ Inch Ceiling Fan with LED Light for Living Room",
     "fanSize": "52 inch",
-    "fanFinish": "Antique Brass / Chrome / Matte Black / Matte White",
+    "fanFinish": "Walnut Matte Black",
     "variations": [
       "airwind-rw",
       "airwind-bw",
@@ -1078,7 +1075,7 @@
     "urlCode": "airwind-wt",
     "modelName": "Airwind – 52″ Inch Ceiling Fan with LED Light for Living Room",
     "fanSize": "52 inch",
-    "fanFinish": "Antique Brass / Chrome / Matte Black / Matte White",
+    "fanFinish": "Matte White",
     "variations": [
       "airwind-rw",
       "airwind-bw",
