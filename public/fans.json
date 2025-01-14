@@ -789,7 +789,7 @@
     "urlCode": "beechwood-ss",
     "modelName": "Beechwood – 54″ Modern Ceiling Fan with Wooden Blades | Remote Control",
     "fanSize": "54 inch",
-    "fanFinish": "Stainless Steel",
+    "fanFinish": "Chrome",
     "variations": [],
     "related": [
       "reva-sw",
@@ -1173,7 +1173,7 @@
     "urlCode": "liberty-ss",
     "modelName": "Liberty – 52″ Ceiling Fan with Special Wooden Blades and Control with Remote",
     "fanSize": "52 inch",
-    "fanFinish": "Stainless Steel",
+    "fanFinish": "Chrome",
     "variations": [
       
     ],
@@ -1201,11 +1201,12 @@
     ],
     "category": "Modern & Contemporary Fans"
   },
+
   {
     "urlCode": "arizona-bw",
     "modelName": "Arizona – 52″ Modern Design Ceiling Fan with Wooden Blades",
     "fanSize": "52 inch",
-    "fanFinish": "Stainless Steel",
+    "fanFinish": "Chrome",
     "variations": [
       "arizona-bw"
     ],
@@ -1217,6 +1218,7 @@
     ],
     "category": "Modern Wooden Fans"
   },
+
   {
     "urlCode": "italioplus-slvr",
     "modelName": "Italio Plus – 52″ Modern Ceiling Fan with Light and Remote Control",
@@ -1233,6 +1235,7 @@
     ],
     "category": "Modern & Contemporary Fans"
   },
+
   {
     "urlCode": "italioplus-wt",
     "modelName": "Italio Plus – 52″ Modern Ceiling Fan with Light and Remote Control",
@@ -1249,6 +1252,7 @@
     ],
     "category": "Modern & Contemporary Fans"
   },
+
   {
     "urlCode": "italio-wt",
     "modelName": "Italio – 52″ Modern Ceiling Fan with Special Wooden Blades",
@@ -1265,6 +1269,7 @@
     ],
     "category": "Modern & Contemporary Fans"
   },
+  
   {
     "urlCode": "euro",
     "modelName": "Euro 48\" Wooden Blade Fan",
