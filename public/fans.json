@@ -195,7 +195,7 @@
     "urlCode": "artic-wall",
     "modelName": "Artic Wall – 52″ Modern Wall Fan",
     "fanSize": "52 inches",
-    "fanFinish": "Darkwood Hand-Crafted Wooden Blades",
+    "fanFinish": "Hand-Crafted Dark Wooden Blades",
     "variations": [
       "artic-wall-pinewood"
     ],
@@ -205,7 +205,7 @@
       "volley-plus",
       "volley-wt",
       "volley-blk",
-      "wendy-sg"
+      "wend"
     ],
     "category": "Wall Mounted Fans"
   },
@@ -223,7 +223,7 @@
       "volley-plus",
       "volley-wt",
       "volley-blk",
-      "wendy-sg"
+      "wend"
     ],
     "category": "Wall Mounted Fans"
   },
@@ -231,7 +231,7 @@
     "urlCode": "artic-wall-pinewood",
     "modelName": "Artic Wall – 52″ Modern Wall Fan",
     "fanSize": "52 Inches",
-    "fanFinish": "Pinewood Hand-Crafted Wooden Blades",
+    "fanFinish": "Hand-Crafted Pinewood Blades",
     "variations": [
       "artic-wall"
     ],
@@ -241,7 +241,7 @@
       "volley-plus",
       "volley-wt",
       "volley-blk",
-      "wendy-sg"
+      "wend"
     ],
     "category": "Wall Mounted Fans"
   },
@@ -259,7 +259,7 @@
       "volley-plus",
       "volley-wt",
       "volley-blk",
-      "wendy-sg"
+      "wend"
     ],
     "category": "Wall Mounted Fans"
   },
@@ -277,12 +277,12 @@
       "volley-plus",
       "volley-wt",
       "volley-blk",
-      "wendy-sg"
+      "wend"
     ],
     "category": "Wall Mounted Fans"
   },
   {
-    "urlCode": "wendy-sg",
+    "urlCode": "wend",
     "modelName": "Wendy – 15″ Versatile 360° Rotating Wall and Ceiling Mount Fan",
     "fanSize": "15 Inch",
     "fanFinish": "Sand Gold",
@@ -305,7 +305,7 @@
     "fanSize": "15 Inch",
     "fanFinish": "Chrome & Grey",
     "variations": [
-      "wendy-sg",
+      "wend",
       "wendy-blk"
     ],
     "related": [
@@ -324,7 +324,7 @@
     "fanFinish": "Matte Coffee / Dark Grey",
     "variations": [
       "wendy-ss",
-      "wendy-sg"
+      "wend"
     ],
     "related": [
       "volley-plus",
