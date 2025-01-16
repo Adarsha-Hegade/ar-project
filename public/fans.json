@@ -70,7 +70,7 @@
     "related": [
       "desky",
       "standie",
-      "eiffel-blk",
+      "eiffel-wt",
       "eiffel-wooden",
       "nova",
       "nova-mini",
@@ -87,7 +87,7 @@
     "related": [
       "matrix-gg",
       "standie",
-      "eiffel-blk",
+      "eiffel-wt",
       "eiffel-wooden",
       "nova",
       "nova-mini",
@@ -106,7 +106,7 @@
     "related": [
       "desky",
       "standie",
-      "eiffel-blk",
+      "eiffel-wt",
       "eiffel-wooden",
       "nova",
       "nova-mini",
@@ -2874,7 +2874,7 @@
     "fanSize": "42 Inch",
     "fanFinish": "Antique Brass",
     "variations": [
-      "daffodil-plus"
+      
     ],
     "related": [
       "daffodil",
@@ -3097,11 +3097,11 @@
     "fanSize": "14 Inch",
     "fanFinish": "Matte White",
     "variations": [
-      "rebel-plus"
+      
     ],
     "related": [
-      "nova-mini",
-      "nova"
+      "nova-mini", 
+      "nova", "rebel-plus"
     ],
     "category": "Grid Ceiling Fans"
   },
@@ -3111,11 +3111,11 @@
     "fanSize": "16 Inch",
     "fanFinish": "Matte White",
     "variations": [
-      "rebel-premium"
+      
     ],
     "related": [
-      "nova-mini",
-      "nova"
+      "nova-mini", 
+      "nova","rebel-premium"
     ],
     "category": "Grid Ceiling Fans"
   },
@@ -3138,7 +3138,6 @@
     "fanSize": "50\" Height",
     "fanFinish": "White Finish",
     "variations": [
-      "eiffel-blk",
       "eiffel-wooden"
     ],
     "related": [
@@ -3148,29 +3147,13 @@
     ],
     "category": "Standing Fans"
   },
-  {
-    "urlCode": "eiffel-blk",
-    "modelName": "Eiffel – 60° Oscillating Tower Fan 15 ft Air Delivery",
-    "fanSize": "50\" Height",
-    "fanFinish": "Black Finish",
-    "variations": [
-      "eiffel-wt",
-      "eiffel-wooden"
-    ],
-    "related": [
-      "standie",
-      "matrix-gg",
-      "desky"
-    ],
-    "category": "Standing Fans"
-  },
+  
   {
     "urlCode": "eiffel-wooden",
     "modelName": "Eiffel – 60° Oscillating Tower Fan 15 ft Air Delivery",
     "fanSize": "50\" Height",
     "fanFinish": "Wooden Finish",
     "variations": [
-      "eiffel-wt",
       "eiffel-wt"
     ],
     "related": [
