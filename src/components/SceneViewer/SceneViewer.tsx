@@ -10,10 +10,22 @@ import { useFullscreen } from '../../hooks/useFullscreen';
 export function SceneViewer() {
   const { fanName } = useParams<{ fanName: string }>();
   const [isToolbarOpen, setIsToolbarOpen] = useState(false);
+  const [showTooltip, setShowTooltip] = useState(false);
   const [cameraError, setCameraError] = useState<Error | null>(null);
   const { fanData, loading, error } = useFanData();
   const { isFullscreen, toggleFullscreen } = useFullscreen();
   const navigate = useNavigate();
+
+  // Show tooltip once after initial load
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setShowTooltip(true);
+      // Hide tooltip after animation completes
+      setTimeout(() => setShowTooltip(false), 3000);
+    }, 2000);
+
+    return () => clearTimeout(timer);
+  }, []);
 
   useEffect(() => {
     if (!loading && !error && fanData.length > 0) {
@@ -54,14 +66,24 @@ export function SceneViewer() {
         </button>
       </div>
 
-      <button
-        onClick={() => setIsToolbarOpen(!isToolbarOpen)}
-        className={`fixed bottom-4 right-4 z-50 rounded-full bg-white/10 p-3 backdrop-blur-sm transition-all hover:bg-white/20 ${
-          isToolbarOpen ? 'rotate-180' : ''
-        }`}
-      >
-        <ChevronUp className="h-6 w-6 text-white" />
-      </button>
+      <div className="fixed bottom-4 right-4 z-50">
+        {showTooltip && (
+          <div className="absolute bottom-full left-1/2 mb-4 tooltip-slide">
+            <div className="relative -left-1/2 rounded-lg bg-black/80 px-4 py-2 text-sm text-white backdrop-blur-sm">
+              <div className="absolute -bottom-1 left-1/2 h-2 w-2 -translate-x-1/2 rotate-45 bg-black/80" />
+              More Options
+            </div>
+          </div>
+        )}
+        <button
+          onClick={() => setIsToolbarOpen(!isToolbarOpen)}
+          className={`rounded-full bg-white/10 p-3 backdrop-blur-sm transition-all hover:bg-white/20 ${
+            isToolbarOpen ? 'rotate-180' : ''
+          } ${!isToolbarOpen && !showTooltip ? 'pulse-glow' : ''}`}
+        >
+          <ChevronUp className="h-6 w-6 text-white" />
+        </button>
+      </div>
 
       <Toolbar isOpen={isToolbarOpen} currentFan={fanName || ''} />
     </div>

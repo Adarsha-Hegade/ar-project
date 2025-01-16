@@ -36,3 +36,43 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: rgb(107 114 128);
 }
+
+/* Animations */
+@keyframes pulseGlow {
+  0% {
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0.4);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(255, 255, 255, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(255, 255, 255, 0);
+  }
+}
+
+@keyframes tooltipSlide {
+  0% {
+    opacity: 0;
+    transform: translate(-50%, 10px);
+  }
+  15% {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+  85% {
+    opacity: 1;
+    transform: translate(-50%, 0);
+  }
+  100% {
+    opacity: 0;
+    transform: translate(-50%, -10px);
+  }
+}
+
+.tooltip-slide {
+  animation: tooltipSlide 3s ease-in-out forwards;
+}
+
+.pulse-glow {
+  animation: pulseGlow 2s infinite;
+}
